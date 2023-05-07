@@ -1,0 +1,70 @@
+  // //Testing the program with keyboard input
+  // // cout<<"Enter the order of the BTree (the maximum number of children a node can have):\n";
+  // // cin>>m;
+  // build menu with switch cases
+
+  // Testing the program with hardcoded values:
+  // m = 6;
+  // Node::setOrder(m);
+  // BTree btree(m);
+  // btree.insert(10);
+  // btree.insert(20);
+  // btree.insert(5);
+  // btree.insert(6);
+  // btree.insert(12);
+  // btree.insert(30);
+  // btree.insert(7);
+  // btree.insert(17);
+  // btree.traverse();
+  // cout<<endl;
+  // cout<<btree.search(17);
+  // btree.deleteKey(17);
+  // cout<<endl;
+  // btree.traverse();
+  // cout<<endl;
+  // cout<<btree.search(17);
+  // cout<<endl;
+  // cout<<btree.search(27);
+  // cout<<endl;
+  // cout<<btree.search(20);
+  // cout<<endl;
+  // cout<<btree.searchBiggestNrSmallerThan(15);
+  // cout<<endl;
+  // cout<<btree.searchSmallestNrBiggerThan(15);
+  // cout<<btree.searchBiggestNrSmallerThan(200);
+  // cout<<btree.searchSmallestNrBiggerThan(25);
+  // cout<<btree.search(19);
+  // btree.traverse();
+  // btree.traverseInterval(15, 20);
+
+  // HARDCODED VALUES EXAMPLE 2: 
+  //  m = 6;
+  // btree.insert(10);
+  // btree.insert(20);
+  // btree.insert(30);
+  // btree.insert(40);
+  // btree.insert(50);
+  // btree.insert(60);
+  // btree.insert(70);
+  // btree.insert(80);
+  // btree.insert(90);
+
+  // HARDCODED VALUES EXAMPLE 3: 
+
+  // m = 3;
+  // btree.insert(12);
+  // btree.insert(17);
+  // btree.insert(2);
+  // btree.insert(8);
+  // btree.insert(15);
+  // btree.insert(20);
+  // btree.insert(25);
+  // btree.insert(1);
+  // btree.insert(4);
+  // btree.insert(6);
+  // btree.insert(10);
+  // btree.insert(13);
+  // btree.insert(16);
+  // btree.insert(18);
+  // btree.insert(22);
+  // btree.insert(25);
